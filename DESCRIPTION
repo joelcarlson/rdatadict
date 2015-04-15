@@ -9,7 +9,7 @@ Description: Input and print methods for a searchable and attractive data dictio
 License: CC0
 LazyData: true
 Depends: 
-    knitr
+    knitr,
     DT
 Suggests: testthat
 URL: http://github.com/joelcarlson/rdatadict
