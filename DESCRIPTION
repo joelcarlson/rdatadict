@@ -1,0 +1,16 @@
+Package: rdatadict
+Type: Package
+Title: A pretty and simple data dictionary
+Version: 1.0
+Date: 2015-03-18
+Authors@R: person("Joel", "Carlson", email = "jnkcarlson@gmail.com", role = c("aut", "cre")) 
+Maintainer: Joel Carlson <jnkcarlson@gmail.com>
+Description: Input and print methods for a searchable and attractive data dictionary
+License: CC0
+LazyData: true
+Depends: 
+    knitr
+    DT
+Suggests: testthat
+URL: http://github.com/joelcarlson/rdatadict
+BugReports: http://github.com/joelcarlson/rdatadict/issues
